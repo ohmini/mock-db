@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "ข่าว 1",
+    "description": "ไม่มีผู้ใดที่สมัครรักใคร่ในความเจ็บปวด หรือเสาะแสวงหาและปรารถนาจะครอบครองความเจ็บปวด นั่นก็เป็นเพราะว่ามันเจ็บปวด"
+  },
+  {
+    "id": 2,
+    "title": "ข่าว 2",
+    "description": "eque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+  }
+]
